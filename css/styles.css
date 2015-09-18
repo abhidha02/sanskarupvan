@@ -19,5 +19,8 @@
   }
   #dropdown1 :hover a{
     color:#1e1e1e;
-
+  }
+  .padding-20 {
+      padding-left: 20px;
+      padding-right: 20px;
   }
